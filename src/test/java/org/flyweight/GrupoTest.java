@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class GrupoTest {
     @Test
-    public void deveRetornarGuild() {
+    public void deveRetornarGrupo() {
         Grupo grupo = new Grupo();
         grupo.createJogador("uiu", "Mago", "2453200", "127580616");
         grupo.createJogador("rodrigo", "Bardo", "2453250", "127580620");

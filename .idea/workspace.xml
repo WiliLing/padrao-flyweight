@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec79e06c-758b-44b9-a322-e8f75e2f2f09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/flyweight/Grupo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/flyweight/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/flyweight/JogadorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/flyweight/LocalJogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/flyweight/GrupoTest.java" afterDir="false" />
+    <list default="true" id="ec79e06c-758b-44b9-a322-e8f75e2f2f09" name="Changes" comment="Finalização do projeto">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/flyweight/GrupoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/flyweight/GrupoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +27,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Hh4aVGhwok2tt55RL7Mq75b2pL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
@@ -88,6 +83,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668724049216</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finalização do projeto">
+      <created>1668725276075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668725276075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finalização do projeto">
+      <created>1668725514215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668725514215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +110,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finalização do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalização do projeto" />
   </component>
 </project>
